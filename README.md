@@ -1,6 +1,6 @@
 # About Complete JavaScript Course
 
-This Course was constructed by [Jonas Schmedtmann](https://github.com/jonasschmedtmann) from his course [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
+This course was constructed by [Jonas Schmedtmann](https://github.com/jonasschmedtmann) from [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
 
 
 
